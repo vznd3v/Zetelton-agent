@@ -1,4 +1,4 @@
-"""CLI interface module for Nestor."""
+"""CLI interface module for Zetelton."""
 
 from .messages import Message, MessageHistory
 from .panel import get_panel, render_panel, render_prompt_frame
